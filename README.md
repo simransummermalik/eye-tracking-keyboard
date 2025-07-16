@@ -1,4 +1,4 @@
-```markdown
+
 # Eye-Tracking Keyboard
 
 This project lets you control a virtual keyboard using only your eyes. It uses MediaPipe and OpenCV to track your gaze and simulate key presses through dwell-based selection.
