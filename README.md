@@ -80,7 +80,7 @@ python eye_tracking_keyboard.py
 - Stare at a key on the keyboard to select it.
 - Dwell time is approximately 1.2 seconds.
 - Available keys:
-  - Alphabet letters (Q–M)
+  - ALL Alphabet letters 
   - `SPACE` — insert a space
   - `DEL` — delete the last character
   - `CLEAR` — clear all typed text
